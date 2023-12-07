@@ -1,14 +1,15 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+# The tooth fairy - Frequently Asked Questions
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+## Who is the tooth fairy?
+The tooth fairy is a fairy that collects teeth from children. The tooth fairy will leave money behind as a thank you!
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+## What to do if the tooth has been swallowed?
+Check your poop! The tooth will pass through yuor system and eventually come out the other side. The tooth fairy pays less for poopy teeth though, so be careful...
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+## What to do if I lose my tooth?
+It happens! Sometimes you're so excited to show your friends and family and nanas and grandads that a tooth can go missing. Maybe you didn't notice it fell out until it was already gone! Don't worry though, the tooth fairy understands. If you leave a note called an I.O.U. written in your finest handwriting with your favourite pen, the tooth fairy will accept that instead. After all, the tooth fairy can turn the paper into a box to hold all their other teeth, so it's still useful!
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## What if I lose my tooth on Christmas Eve?
+Uh oh! If you lose your tooth on Christmas Eve then Santa and the tooth fairy have to fight to see who gives you a present or money. Usually the tooth fairy wins because they throw teeth at Santa, who is very afraid of them and runs away!
+
+Only kidding! If you lose your tooth on Christmas Eve then you are visited by both the tooth fairy AND Santa! Lucky you!
