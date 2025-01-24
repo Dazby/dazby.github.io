@@ -1,14 +1,19 @@
 :root {
-    --nav-background-color: rgb(11, 61, 224);
-    --secondary-color: #f1f1f1;
-    --tertiary-color: #e11717;
-    --background-color: #fff;
+    --nav-background-color: black;
+    --nav-text-color: white;
+    --background-color: white;
     --text-color: black;
+    --card-background-color: white;
+    --card-border-color: black;
+    --card-text-color: black;
+}
+
+* {
+    box-sizing: border-box
 }
 
 html {
-    margin: 0;
-    padding: 0 20% 0 20%;
+    margin: 5vw;
     scroll-behavior: smooth;
 }
 
@@ -21,7 +26,7 @@ body {
 }
 
 body nav {
-    position: sticky;
+    /* position: sticky; */
     top: 0;
 }
 
@@ -44,4 +49,28 @@ li a {
     text-decoration: none;
     color: var(--text-color);
     font-weight: normal;
+}
+
+.card {
+    border-radius: 30px;
+    margin: 20px 0;
+    padding: 10px 30px;
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.1);
+    background-color: var(--card-background-color);
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-image {
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.profile-picture {
+    position: absolute;
+    object-position: left top;
+    border-radius: 50%;
+    height: auto;
+    max-width: 10vw;
 }
